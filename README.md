@@ -1,6 +1,6 @@
 # BeFun's Blog :link: https://bifan001.github.io 
-### :page_facing_up: [0](https://bifan001.github.io/tag.html) 
+### :page_facing_up: [2](https://bifan001.github.io/tag.html) 
 ### :speech_balloon: 0 
-### :hibiscus: 0 
-### :alarm_clock: 2025-03-05 17:13:33 
+### :hibiscus: 5764 
+### :alarm_clock: 2025-06-16 17:10:40 
 ### Powered by :heart: [Gmeek](https://github.com/Meekdai/Gmeek)
